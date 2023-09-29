@@ -1,0 +1,28 @@
+body { color:#ffffff;
+    background-color: #93b3c6f4;
+    font-family:Helvetica;
+    font-size: 20px;
+    line-height: 1,5;
+} 
+
+.kontakt { 
+    font-family: Helvetica; 
+    font-size: 20px ;
+    line-height: 1,5;
+    text-align: left;
+    background-color: #83aec6f4;
+    color: rgb(255, 255, 255);
+}
+
+h1 { font-size: 40px;
+    font-weight: bold;
+    background-color: #83aec6f4;
+    text-align: center;
+}
+
+img { border-radius: 50%; padding:20px; display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+h1, h2
+{color:blue;margin:25px;}
