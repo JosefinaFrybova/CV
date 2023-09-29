@@ -32,3 +32,24 @@ h1, h2
 .studium h2 {
     clear:both;
  }
+
+a:link    {color: rgb(170, 255, 0)}
+a:visited    {color: purple}
+a:active    {color: red}
+
+
+.menu li {
+display:inline-block;
+
+ }
+
+ .menu { 
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    fontsize: 30px;
+ }
+
+ .menu a { text-decoration: none;
+    padding: 20px 30px;
+}
